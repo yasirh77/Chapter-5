@@ -1,0 +1,4 @@
+﻿  Chapter 5.12.cpp
+C:\Users\yeh71\OneDrive\Desktop\Code Projects\C++\Chapter 5.10\Chapter 5.12\Chapter 5.12\Chapter 5.12.cpp(8,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\yeh71\OneDrive\Desktop\Code Projects\C++\Chapter 5.10\Chapter 5.12\Chapter 5.12\Chapter 5.12.cpp(17,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Chapter 5.12.vcxproj -> C:\Users\yeh71\OneDrive\Desktop\Code Projects\C++\Chapter 5.10\Chapter 5.12\Debug\Chapter 5.12.exe
